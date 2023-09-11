@@ -42,7 +42,7 @@ public final class RPLEDefaultValues {
         registry.colorizeBlock(glowstone).brightness(0xCC7).apply();
         registry.colorizeBlock(lit_furnace).brightness(0xDCA).apply();
         registry.colorizeBlock(lit_redstone_ore).brightness(0x511).apply();
-        registry.colorizeBlock(portal).brightness(0x919).apply();
+        registry.colorizeBlock(portal).brightness(0x519).apply();
         registry.colorizeBlock(powered_repeater).brightness(0x611).apply();
         registry.colorizeBlock(redstone_torch).brightness(0x611).apply();
         registry.colorizeBlock(torch).brightness(TORCH_LIGHT).apply();
@@ -226,7 +226,7 @@ public final class RPLEDefaultValues {
         registry.colorizeBlock("Railcraft:firestone.recharge").brightness(0xF90).apply();
 
         registry.colorizeBlock("TwilightForest:tile.TFFirefly").brightness(0x8E0).apply();
-        registry.colorizeBlock("TwilightForest:tile.TFPortal").brightness(0x919).apply();
+        registry.colorizeBlock("TwilightForest:tile.TFPortal").brightness(0x519).apply();
         registry.colorizeBlock("TwilightForest:tile.TFFireflyJar").brightness(0x8E0).apply();
         registry.colorizeBlock("TwilightForest:tile.HugeGloomBlock").brightness(0x420).apply();
         registry.colorizeBlock("TwilightForest:tile.TrollBer").brightness(0xFEC).apply();
