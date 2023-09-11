@@ -39,10 +39,10 @@ public final class RPLEDefaultValues {
         registry.colorizeBlock(fire).brightness(0xEC0).apply();
         registry.colorizeBlock(lava).brightness(0xF90).apply();
         registry.colorizeBlock(flowing_lava).brightness(0xF90).apply();
-        registry.colorizeBlock(glowstone).brightness(0xCC7).apply();
+        registry.colorizeBlock(glowstone).brightness(0xFD9).apply();
         registry.colorizeBlock(lit_furnace).brightness(0xDCA).apply();
         registry.colorizeBlock(lit_redstone_ore).brightness(0x511).apply();
-        registry.colorizeBlock(portal).brightness(0x519).apply();
+        registry.colorizeBlock(portal).brightness(0x72B).apply();
         registry.colorizeBlock(powered_repeater).brightness(0x611).apply();
         registry.colorizeBlock(redstone_torch).brightness(0x611).apply();
         registry.colorizeBlock(torch).brightness(TORCH_LIGHT).apply();
@@ -52,7 +52,7 @@ public final class RPLEDefaultValues {
         registry.colorizeBlock(end_portal).brightness(0x7FB).apply();
         registry.colorizeBlock(end_portal_frame).brightness(0x011).apply();
         registry.colorizeBlock(dragon_egg).brightness(0x011).apply();
-        registry.colorizeBlock(lit_redstone_lamp).brightness(0xCC7).apply();
+        registry.colorizeBlock(lit_redstone_lamp).brightness(0xFD9).apply();
         registry.colorizeBlock(ender_chest).brightness(0x376).apply();
         registry.colorizeBlock(beacon).brightness(0xCCC).apply();
         registry.colorizeBlock(powered_comparator).brightness(0x611).apply();
@@ -109,7 +109,7 @@ public final class RPLEDefaultValues {
         registry.colorizeBlock("chisel:hexLargePlating:15").brightness(DIM_LIGHT_GRAY).apply();
 
         registry.colorizeBlock("chisel:holystone").brightness(DIM_GRAY).apply();
-        registry.colorizeBlock("chisel:glowstone").brightness(0xCC7).apply();
+        registry.colorizeBlock("chisel:glowstone").brightness(0xFD9).apply();
 
         registry.colorizeBlock("chisel:jackolantern1").brightness(0xFDB).apply();
         registry.colorizeBlock("chisel:jackolantern2").brightness(0xFDB).apply();
@@ -226,7 +226,7 @@ public final class RPLEDefaultValues {
         registry.colorizeBlock("Railcraft:firestone.recharge").brightness(0xF90).apply();
 
         registry.colorizeBlock("TwilightForest:tile.TFFirefly").brightness(0x8E0).apply();
-        registry.colorizeBlock("TwilightForest:tile.TFPortal").brightness(0x519).apply();
+        registry.colorizeBlock("TwilightForest:tile.TFPortal").brightness(0x72B).apply();
         registry.colorizeBlock("TwilightForest:tile.TFFireflyJar").brightness(0x8E0).apply();
         registry.colorizeBlock("TwilightForest:tile.HugeGloomBlock").brightness(0x420).apply();
         registry.colorizeBlock("TwilightForest:tile.TrollBer").brightness(0xFEC).apply();
@@ -255,7 +255,7 @@ public final class RPLEDefaultValues {
 
         registry.colorizeBlock("TConstruct:decoration.stonetorch").brightness(TORCH_LIGHT).apply();
 
-        registry.colorizeBlock("EnderIO:blockPaintedGlowstone").brightness(0xCC7).apply();
+        registry.colorizeBlock("EnderIO:blockPaintedGlowstone").brightness(0xFD9).apply();
 
         registry.colorizeBlock("harvestcraft:pamcandleDeco1").brightness(TORCH_LIGHT).apply();
         registry.colorizeBlock("harvestcraft:pamcandleDeco2").brightness(TORCH_LIGHT).apply();
@@ -515,9 +515,9 @@ public final class RPLEDefaultValues {
         registry.colorizeBlock("netherlicious:ShadowLanternEfrine").brightness(0x639).apply();
         registry.colorizeBlock("netherlicious:GourdLanternShadow").brightness(0x639).apply();
 
-        registry.colorizeBlock("netherlicious:GlowstoneLantern").brightness(0xCC7).apply();
-        registry.colorizeBlock("netherlicious:GlowstoneLanternGold").brightness(0xCC7).apply();
-        registry.colorizeBlock("netherlicious:GlowstoneLanternEfrine").brightness(0xCC7).apply();
+        registry.colorizeBlock("netherlicious:GlowstoneLantern").brightness(0xFD9).apply();
+        registry.colorizeBlock("netherlicious:GlowstoneLanternGold").brightness(0xFD9).apply();
+        registry.colorizeBlock("netherlicious:GlowstoneLanternEfrine").brightness(0xFD9).apply();
 
         registry.colorizeBlock("netherlicious:Lantern").brightness(0xFC5).apply();
         registry.colorizeBlock("netherlicious:LanternGold").brightness(0xFC5).apply();
@@ -569,7 +569,7 @@ public final class RPLEDefaultValues {
         registry.colorizeBlock("netherlicious:MagmaBlock").brightness(0x310).apply();
         registry.colorizeBlock("netherlicious:CryingBlackstone").brightness(0x213).apply();
 
-        registry.colorizeBlock("netherlicious:CryingObsidian").brightness(0x519).apply();
+        registry.colorizeBlock("netherlicious:CryingObsidian").brightness(0x62A).apply();
 
         registry.colorizeBlock("netherlicious:Gloomstone").brightness(0x299).apply();
 
@@ -632,7 +632,7 @@ public final class RPLEDefaultValues {
         registry.colorizeBlock("MineFactoryReloaded:stainedglass.block:13").translucency(GREEN).apply();
         registry.colorizeBlock("MineFactoryReloaded:stainedglass.block:14").translucency(RED).apply();
         registry.colorizeBlock("MineFactoryReloaded:stainedglass.block:15").translucency(BLACK).apply();
-        
+
         registry.colorizeBlock("MineFactoryReloaded:stainedglass.pane:0").translucency(WHITE).apply();
         registry.colorizeBlock("MineFactoryReloaded:stainedglass.pane:1").translucency(ORANGE).apply();
         registry.colorizeBlock("MineFactoryReloaded:stainedglass.pane:2").translucency(MAGENTA).apply();
@@ -649,7 +649,7 @@ public final class RPLEDefaultValues {
         registry.colorizeBlock("MineFactoryReloaded:stainedglass.pane:13").translucency(GREEN).apply();
         registry.colorizeBlock("MineFactoryReloaded:stainedglass.pane:14").translucency(RED).apply();
         registry.colorizeBlock("MineFactoryReloaded:stainedglass.pane:15").translucency(BLACK).apply();
-        
+
         registry.colorizeBlock("TConstruct:GlassBlock.StainedClear:0").translucency(WHITE).apply();
         registry.colorizeBlock("TConstruct:GlassBlock.StainedClear:1").translucency(ORANGE).apply();
         registry.colorizeBlock("TConstruct:GlassBlock.StainedClear:2").translucency(MAGENTA).apply();
@@ -666,7 +666,7 @@ public final class RPLEDefaultValues {
         registry.colorizeBlock("TConstruct:GlassBlock.StainedClear:13").translucency(GREEN).apply();
         registry.colorizeBlock("TConstruct:GlassBlock.StainedClear:14").translucency(RED).apply();
         registry.colorizeBlock("TConstruct:GlassBlock.StainedClear:15").translucency(BLACK).apply();
-        
+
         registry.colorizeBlock("TConstruct:GlassPaneClearStained:0").translucency(WHITE).apply();
         registry.colorizeBlock("TConstruct:GlassPaneClearStained:1").translucency(ORANGE).apply();
         registry.colorizeBlock("TConstruct:GlassPaneClearStained:2").translucency(MAGENTA).apply();
