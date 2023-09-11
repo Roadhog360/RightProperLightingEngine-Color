@@ -484,6 +484,101 @@ public final class RPLEDefaultValues {
         registry.colorizeBlock("etfuturum:amethyst_cluster_2:9").brightness(0x435).apply();
         registry.colorizeBlock("etfuturum:amethyst_cluster_2:10").brightness(0x435).apply();
         registry.colorizeBlock("etfuturum:amethyst_cluster_2:11").brightness(0x435).apply();
+
+        registry.colorizeBlock("campfirebackport:soul_campfire").brightness(0x5AA).apply();//palette : soul fire
+        registry.colorizeBlock("campfirebackport:campfire").brightness(0xEC0).apply();
+
+        registry.colorizeBlock("MineFactoryReloaded:brick:1").brightness(0xFEC).apply();
+        registry.colorizeBlock("MineFactoryReloaded:brick:7").brightness(0xFEC).apply();
+
+        registry.colorizeBlock("netherlicious:SoulFire").brightness(0x5AA).apply();//palette : soul fire
+        registry.colorizeBlock("netherlicious:SoulTorch").brightness(0x5AA).apply();
+        registry.colorizeBlock("netherlicious:SoulBoneTorch").brightness(0x5AA).apply();
+        registry.colorizeBlock("netherlicious:SoulLantern").brightness(0x5AA).apply();
+        registry.colorizeBlock("netherlicious:SoulLanternGold").brightness(0x5AA).apply();
+        registry.colorizeBlock("netherlicious:SoulLanternEfrine").brightness(0x5AA).apply();
+        registry.colorizeBlock("netherlicious:GourdLanternSoul").brightness(0x5AA).apply();//palette : soul fire
+
+        registry.colorizeBlock("netherlicious:FoxFire").brightness(0xC8F).apply();
+        registry.colorizeBlock("netherlicious:FoxfireTorch").brightness(0xA6D).apply();
+        registry.colorizeBlock("netherlicious:FoxfireBoneTorch").brightness(0xA6D).apply();
+        registry.colorizeBlock("netherlicious:FoxfireLantern").brightness(0xC8F).apply();
+        registry.colorizeBlock("netherlicious:FoxfireLanternGold").brightness(0xC8F).apply();
+        registry.colorizeBlock("netherlicious:FoxfireLanternEfrine").brightness(0xC8F).apply();
+        registry.colorizeBlock("netherlicious:GourdLanternFoxfire").brightness(0xC8F).apply();
+
+        registry.colorizeBlock("netherlicious:ShadowFire").brightness(0x639).apply();
+        registry.colorizeBlock("netherlicious:ShadowTorch").brightness(0x639).apply();
+        registry.colorizeBlock("netherlicious:ShadowBoneTorch").brightness(0x639).apply();
+        registry.colorizeBlock("netherlicious:ShadowLantern").brightness(0x639).apply();
+        registry.colorizeBlock("netherlicious:ShadowLanternGold").brightness(0x639).apply();
+        registry.colorizeBlock("netherlicious:ShadowLanternEfrine").brightness(0x639).apply();
+        registry.colorizeBlock("netherlicious:GourdLanternShadow").brightness(0x639).apply();
+
+        registry.colorizeBlock("netherlicious:GlowstoneLantern").brightness(0xCC7).apply();
+        registry.colorizeBlock("netherlicious:GlowstoneLanternGold").brightness(0xCC7).apply();
+        registry.colorizeBlock("netherlicious:GlowstoneLanternEfrine").brightness(0xCC7).apply();
+
+        registry.colorizeBlock("netherlicious:Lantern").brightness(0xFC5).apply();
+        registry.colorizeBlock("netherlicious:LanternGold").brightness(0xFC5).apply();
+        registry.colorizeBlock("netherlicious:LanternEfrine").brightness(0xFC5).apply();
+
+        registry.colorizeBlock("netherlicious:RedstoneLanternOn").brightness(ORANGE).apply();
+        registry.colorizeBlock("netherlicious:RedstoneLanternGoldOn").brightness(ORANGE).apply();
+        registry.colorizeBlock("netherlicious:RedstoneLanternEfrineOn").brightness(ORANGE).apply();
+
+        registry.colorizeBlock("netherlicious:CrystalLamp:1").brightness(0xCEF).apply();
+        registry.colorizeBlock("netherlicious:CrystalLamp:11").brightness(0xCEF).apply();
+        registry.colorizeBlock("netherlicious:CrystalClusterBlue").brightness(0x367).apply();
+        registry.colorizeBlock("netherlicious:NetherCrystal:1").brightness(0x367).apply();
+        registry.colorizeBlock("netherlicious:NetherCrystal:6").brightness(0x367).apply();
+        registry.colorizeBlock("netherlicious:CrystalLamp:2").brightness(0x5F9).apply();
+        registry.colorizeBlock("netherlicious:CrystalLamp:12").brightness(0x5F9).apply();
+        registry.colorizeBlock("netherlicious:CrystalClusterGreen").brightness(0x275).apply();
+        registry.colorizeBlock("netherlicious:NetherCrystal:2").brightness(0x275).apply();
+        registry.colorizeBlock("netherlicious:NetherCrystal:7").brightness(0x275).apply();
+        registry.colorizeBlock("netherlicious:CrystalLamp:3").brightness(0xFD8).apply();
+        registry.colorizeBlock("netherlicious:CrystalLamp:13").brightness(0xFD8).apply();
+        registry.colorizeBlock("netherlicious:CrystalClusterYellow").brightness(0x762).apply();
+        registry.colorizeBlock("netherlicious:NetherCrystal:3").brightness(0x762).apply();
+        registry.colorizeBlock("netherlicious:NetherCrystal:8").brightness(0x762).apply();
+        registry.colorizeBlock("netherlicious:CrystalLamp:4").brightness(0xF7C).apply();
+        registry.colorizeBlock("netherlicious:CrystalLamp:14").brightness(0xF7C).apply();
+        registry.colorizeBlock("netherlicious:CrystalClusterMagenta").brightness(0x725).apply();
+        registry.colorizeBlock("netherlicious:NetherCrystal:4").brightness(0x725).apply();
+        registry.colorizeBlock("netherlicious:NetherCrystal:9").brightness(0x725).apply();
+
+        registry.colorizeBlock("netherlicious:NetherrackVent:5").brightness(0x831).apply();
+        registry.colorizeBlock("netherlicious:NetherrackVent:6").brightness(0x831).apply();
+        registry.colorizeBlock("netherlicious:NetherrackVent:7").brightness(0x144).apply();
+        registry.colorizeBlock("netherlicious:NetherrackVent:8").brightness(0x428).apply();
+        registry.colorizeBlock("netherlicious:NetherrackVent:9").brightness(0x314).apply();
+
+        registry.colorizeBlock("netherlicious:BasaltVent:5").brightness(0x831).apply();
+        registry.colorizeBlock("netherlicious:BasaltVent:6").brightness(0x831).apply();
+        registry.colorizeBlock("netherlicious:BasaltVent:7").brightness(0x144).apply();
+        registry.colorizeBlock("netherlicious:BasaltVent:8").brightness(0x428).apply();
+        registry.colorizeBlock("netherlicious:BasaltVent:9").brightness(0x314).apply();
+
+        registry.colorizeBlock("netherlicious:BlackstoneVent:5").brightness(0x831).apply();
+        registry.colorizeBlock("netherlicious:BlackstoneVent:6").brightness(0x831).apply();
+        registry.colorizeBlock("netherlicious:BlackstoneVent:7").brightness(0x144).apply();
+        registry.colorizeBlock("netherlicious:BlackstoneVent:8").brightness(0x428).apply();
+        registry.colorizeBlock("netherlicious:BlackstoneVent:9").brightness(0x314).apply();
+
+        registry.colorizeBlock("netherlicious:MagmaBlock").brightness(0x310).apply();
+        registry.colorizeBlock("netherlicious:CryingBlackstone").brightness(0x213).apply();
+
+        registry.colorizeBlock("netherlicious:CryingObsidian").brightness(0x519).apply();
+
+        registry.colorizeBlock("netherlicious:Gloomstone").brightness(0x299).apply();
+
+        registry.colorizeBlock("netherlicious:ShroomLight:0").brightness(0xFB7).apply();
+        registry.colorizeBlock("netherlicious:ShroomLight:1").brightness(0xBCF).apply();
+
+        registry.colorizeBlock("netherlicious:RespawnAnchor").brightness(0xA5F).apply();
+
+        registry.colorizeBlock("netherlicious:FurnaceBlackstoneLit").brightness(0xDCA).apply();
     }
 
     public static void registerDefaultBlockTranslucencyColors(RPLEBlockColorRegistry registry) {
@@ -521,6 +616,77 @@ public final class RPLEDefaultValues {
         registry.colorizeBlock(stained_glass_pane, 14).translucency(RED).apply();
         registry.colorizeBlock(stained_glass_pane, 15).translucency(BLACK).apply();
 
+        registry.colorizeBlock("MineFactoryReloaded:stainedglass.block:0").translucency(WHITE).apply();
+        registry.colorizeBlock("MineFactoryReloaded:stainedglass.block:1").translucency(ORANGE).apply();
+        registry.colorizeBlock("MineFactoryReloaded:stainedglass.block:2").translucency(MAGENTA).apply();
+        registry.colorizeBlock("MineFactoryReloaded:stainedglass.block:3").translucency(LIGHT_BLUE).apply();
+        registry.colorizeBlock("MineFactoryReloaded:stainedglass.block:4").translucency(YELLOW).apply();
+        registry.colorizeBlock("MineFactoryReloaded:stainedglass.block:5").translucency(LIME).apply();
+        registry.colorizeBlock("MineFactoryReloaded:stainedglass.block:6").translucency(PINK).apply();
+        registry.colorizeBlock("MineFactoryReloaded:stainedglass.block:7").translucency(GRAY).apply();
+        registry.colorizeBlock("MineFactoryReloaded:stainedglass.block:8").translucency(LIGHT_GRAY).apply();
+        registry.colorizeBlock("MineFactoryReloaded:stainedglass.block:9").translucency(CYAN).apply();
+        registry.colorizeBlock("MineFactoryReloaded:stainedglass.block:10").translucency(PURPLE).apply();
+        registry.colorizeBlock("MineFactoryReloaded:stainedglass.block:11").translucency(BLUE).apply();
+        registry.colorizeBlock("MineFactoryReloaded:stainedglass.block:12").translucency(BROWN).apply();
+        registry.colorizeBlock("MineFactoryReloaded:stainedglass.block:13").translucency(GREEN).apply();
+        registry.colorizeBlock("MineFactoryReloaded:stainedglass.block:14").translucency(RED).apply();
+        registry.colorizeBlock("MineFactoryReloaded:stainedglass.block:15").translucency(BLACK).apply();
+        
+        registry.colorizeBlock("MineFactoryReloaded:stainedglass.pane:0").translucency(WHITE).apply();
+        registry.colorizeBlock("MineFactoryReloaded:stainedglass.pane:1").translucency(ORANGE).apply();
+        registry.colorizeBlock("MineFactoryReloaded:stainedglass.pane:2").translucency(MAGENTA).apply();
+        registry.colorizeBlock("MineFactoryReloaded:stainedglass.pane:3").translucency(LIGHT_BLUE).apply();
+        registry.colorizeBlock("MineFactoryReloaded:stainedglass.pane:4").translucency(YELLOW).apply();
+        registry.colorizeBlock("MineFactoryReloaded:stainedglass.pane:5").translucency(LIME).apply();
+        registry.colorizeBlock("MineFactoryReloaded:stainedglass.pane:6").translucency(PINK).apply();
+        registry.colorizeBlock("MineFactoryReloaded:stainedglass.pane:7").translucency(GRAY).apply();
+        registry.colorizeBlock("MineFactoryReloaded:stainedglass.pane:8").translucency(LIGHT_GRAY).apply();
+        registry.colorizeBlock("MineFactoryReloaded:stainedglass.pane:9").translucency(CYAN).apply();
+        registry.colorizeBlock("MineFactoryReloaded:stainedglass.pane:10").translucency(PURPLE).apply();
+        registry.colorizeBlock("MineFactoryReloaded:stainedglass.pane:11").translucency(BLUE).apply();
+        registry.colorizeBlock("MineFactoryReloaded:stainedglass.pane:12").translucency(BROWN).apply();
+        registry.colorizeBlock("MineFactoryReloaded:stainedglass.pane:13").translucency(GREEN).apply();
+        registry.colorizeBlock("MineFactoryReloaded:stainedglass.pane:14").translucency(RED).apply();
+        registry.colorizeBlock("MineFactoryReloaded:stainedglass.pane:15").translucency(BLACK).apply();
+        
+        registry.colorizeBlock("TConstruct:GlassBlock.StainedClear:0").translucency(WHITE).apply();
+        registry.colorizeBlock("TConstruct:GlassBlock.StainedClear:1").translucency(ORANGE).apply();
+        registry.colorizeBlock("TConstruct:GlassBlock.StainedClear:2").translucency(MAGENTA).apply();
+        registry.colorizeBlock("TConstruct:GlassBlock.StainedClear:3").translucency(LIGHT_BLUE).apply();
+        registry.colorizeBlock("TConstruct:GlassBlock.StainedClear:4").translucency(YELLOW).apply();
+        registry.colorizeBlock("TConstruct:GlassBlock.StainedClear:5").translucency(LIME).apply();
+        registry.colorizeBlock("TConstruct:GlassBlock.StainedClear:6").translucency(PINK).apply();
+        registry.colorizeBlock("TConstruct:GlassBlock.StainedClear:7").translucency(GRAY).apply();
+        registry.colorizeBlock("TConstruct:GlassBlock.StainedClear:8").translucency(LIGHT_GRAY).apply();
+        registry.colorizeBlock("TConstruct:GlassBlock.StainedClear:9").translucency(CYAN).apply();
+        registry.colorizeBlock("TConstruct:GlassBlock.StainedClear:10").translucency(PURPLE).apply();
+        registry.colorizeBlock("TConstruct:GlassBlock.StainedClear:11").translucency(BLUE).apply();
+        registry.colorizeBlock("TConstruct:GlassBlock.StainedClear:12").translucency(BROWN).apply();
+        registry.colorizeBlock("TConstruct:GlassBlock.StainedClear:13").translucency(GREEN).apply();
+        registry.colorizeBlock("TConstruct:GlassBlock.StainedClear:14").translucency(RED).apply();
+        registry.colorizeBlock("TConstruct:GlassBlock.StainedClear:15").translucency(BLACK).apply();
+        
+        registry.colorizeBlock("TConstruct:GlassPaneClearStained:0").translucency(WHITE).apply();
+        registry.colorizeBlock("TConstruct:GlassPaneClearStained:1").translucency(ORANGE).apply();
+        registry.colorizeBlock("TConstruct:GlassPaneClearStained:2").translucency(MAGENTA).apply();
+        registry.colorizeBlock("TConstruct:GlassPaneClearStained:3").translucency(LIGHT_BLUE).apply();
+        registry.colorizeBlock("TConstruct:GlassPaneClearStained:4").translucency(YELLOW).apply();
+        registry.colorizeBlock("TConstruct:GlassPaneClearStained:5").translucency(LIME).apply();
+        registry.colorizeBlock("TConstruct:GlassPaneClearStained:6").translucency(PINK).apply();
+        registry.colorizeBlock("TConstruct:GlassPaneClearStained:7").translucency(GRAY).apply();
+        registry.colorizeBlock("TConstruct:GlassPaneClearStained:8").translucency(LIGHT_GRAY).apply();
+        registry.colorizeBlock("TConstruct:GlassPaneClearStained:9").translucency(CYAN).apply();
+        registry.colorizeBlock("TConstruct:GlassPaneClearStained:10").translucency(PURPLE).apply();
+        registry.colorizeBlock("TConstruct:GlassPaneClearStained:11").translucency(BLUE).apply();
+        registry.colorizeBlock("TConstruct:GlassPaneClearStained:12").translucency(BROWN).apply();
+        registry.colorizeBlock("TConstruct:GlassPaneClearStained:13").translucency(GREEN).apply();
+        registry.colorizeBlock("TConstruct:GlassPaneClearStained:14").translucency(RED).apply();
+        registry.colorizeBlock("TConstruct:GlassPaneClearStained:15").translucency(BLACK).apply();
+
+        registry.colorizeBlock("Natura:NetherGlass").translucency(0xF30).apply();
+
         registry.colorizeBlock("etfuturum:slime").translucency(LIME).apply();
+        registry.colorizeBlock("etfuturum:honey_block").translucency(0xFA1).apply();
     }
 }
