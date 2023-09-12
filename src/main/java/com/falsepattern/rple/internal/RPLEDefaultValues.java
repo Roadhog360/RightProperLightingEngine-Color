@@ -39,7 +39,7 @@ public final class RPLEDefaultValues {
         registry.colorizeBlock(fire).brightness(0xEC0).apply();
         registry.colorizeBlock(lava).brightness(0xF90).apply();
         registry.colorizeBlock(flowing_lava).brightness(0xF90).apply();
-        registry.colorizeBlock(glowstone).brightness(0xFD9).apply();
+        registry.colorizeBlock(glowstone).brightness(0xDD8).apply();
         registry.colorizeBlock(lit_furnace).brightness(0xDCA).apply();
         registry.colorizeBlock(lit_redstone_ore).brightness(0x511).apply();
         registry.colorizeBlock(portal).brightness(0x72B).apply();
@@ -109,7 +109,7 @@ public final class RPLEDefaultValues {
         registry.colorizeBlock("chisel:hexLargePlating:15").brightness(DIM_LIGHT_GRAY).apply();
 
         registry.colorizeBlock("chisel:holystone").brightness(DIM_GRAY).apply();
-        registry.colorizeBlock("chisel:glowstone").brightness(0xFD9).apply();
+        registry.colorizeBlock("chisel:glowstone").brightness(0xDD8).apply();
 
         registry.colorizeBlock("chisel:jackolantern1").brightness(0xFDB).apply();
         registry.colorizeBlock("chisel:jackolantern2").brightness(0xFDB).apply();
@@ -255,7 +255,7 @@ public final class RPLEDefaultValues {
 
         registry.colorizeBlock("TConstruct:decoration.stonetorch").brightness(TORCH_LIGHT).apply();
 
-        registry.colorizeBlock("EnderIO:blockPaintedGlowstone").brightness(0xFD9).apply();
+        registry.colorizeBlock("EnderIO:blockPaintedGlowstone").brightness(0xDD8).apply();
 
         registry.colorizeBlock("harvestcraft:pamcandleDeco1").brightness(TORCH_LIGHT).apply();
         registry.colorizeBlock("harvestcraft:pamcandleDeco2").brightness(TORCH_LIGHT).apply();
